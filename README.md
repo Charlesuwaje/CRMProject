@@ -65,7 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Features
+## About the CRM app
+
+This is a simple CRM test project with multiple relationships table using just 2 api to fetch the seeder and factory data.
 
 Run seeder
 `php artisan db:seed`
